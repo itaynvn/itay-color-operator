@@ -1,4 +1,5 @@
 # itay-color-operator
+<<<<<<< HEAD
 // TODO(user): Add simple overview of use/purpose
 
 ## Description
@@ -92,3 +93,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+=======
+golang operator for controlling simple k8s app
+>>>>>>> origin/main
